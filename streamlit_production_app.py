@@ -47,7 +47,7 @@ st.markdown("""
         color: white;
         text-align: center;
         margin: 0.5rem 0;
-    }
+    }   
     .insight-card {
         background: #f8f9fa;
         border-left: 4px solid #007bff;
