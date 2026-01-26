@@ -1,5 +1,129 @@
 # MarketPulse AI 🚀
 
+AI-Powered Retail Decision Support System
+
+## 📁 Project Structure
+
+```
+MarketPulse_AI/
+├── 📱 app.py                    # Main Streamlit app (for deployment)
+├── 📋 requirements.txt          # Main dependencies
+├── 📖 README.md                # This file
+│
+├── 📂 frontend/                 # Streamlit Applications
+│   ├── app.py                  # Main demo app
+│   ├── streamlit_cloud_app.py  # Cloud-optimized version
+│   └── streamlit_production_app.py # Production version
+│
+├── 📂 marketpulse_ai/          # Core Application
+│   ├── api/                    # FastAPI backend
+│   ├── components/             # AI components
+│   ├── config/                 # Configuration
+│   ├── core/                   # Core models
+│   └── storage/                # Data storage
+│
+├── 📂 tests/                   # Test Suite
+│   ├── test_*.py              # Unit tests
+│   └── test_*_properties.py   # Property-based tests
+│
+├── 📂 examples/                # Usage Examples
+│   └── *_demo.py              # Component demos
+│
+├── 📂 docs/                    # Documentation
+│   ├── DEPLOYMENT_GUIDE.md    # Deployment instructions
+│   ├── USER_GUIDE.md          # User manual
+│   └── *.md                   # Other documentation
+│
+├── 📂 config/                  # Configuration Files
+│   ├── requirements-dev.txt   # Development dependencies
+│   ├── pytest.ini            # Test configuration
+│   └── .env.example           # Environment template
+│
+├── 📂 deployment/              # Deployment Configurations
+│   ├── railway/               # Railway deployment
+│   ├── render/                # Render deployment
+│   ├── Procfile              # Heroku configuration
+│   └── *.py                  # Deployment scripts
+│
+├── 📂 scripts/                 # Utility Scripts
+│   ├── run.py                 # Start API server
+│   └── setup.py               # Package setup
+│
+├── 📂 data/                    # Database Files
+│   └── *.db                   # SQLite databases
+│
+└── 📂 .kiro/                   # Kiro Specs (Development)
+    └── specs/marketpulse-ai/   # Feature specifications
+```
+
+## 🚀 Quick Start
+
+### For Demo (Streamlit Cloud):
+```bash
+streamlit run app.py
+```
+
+### For Local Development:
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run demo
+streamlit run frontend/app.py
+```
+
+### For Full System:
+```bash
+# Install dev dependencies
+pip install -r config/requirements-dev.txt
+
+# Start API server
+python scripts/run.py
+
+# Start UI (in another terminal)
+streamlit run frontend/streamlit_production_app.py
+```
+
+## 🌐 Deployment
+
+- **Streamlit Cloud**: Use `app.py` as main file
+- **Railway**: Use `deployment/railway/` configuration
+- **Render**: Use `deployment/render/` configuration
+- **Heroku**: Use `deployment/Procfile`
+
+See `docs/DEPLOYMENT_GUIDE.md` for detailed instructions.
+
+## 📚 Documentation
+
+All documentation is in the `docs/` folder:
+- `DEPLOYMENT_GUIDE.md` - How to deploy
+- `USER_GUIDE.md` - How to use
+- `FINAL_SETUP_GUIDE.md` - Complete setup
+- And more...
+
+## 🧪 Testing
+
+```bash
+# Run all tests
+pytest tests/
+
+# Run specific test
+pytest tests/test_api.py
+```
+
+## 📦 Features
+
+- 🔍 **AI Insights** - Intelligent sales analysis
+- 💡 **Smart Recommendations** - Business optimization suggestions  
+- 📊 **Scenario Analysis** - Strategy comparison
+- ⚠️ **Risk Assessment** - Inventory risk evaluation
+- 🛡️ **Compliance Validation** - MRP compliance checking
+- 📈 **Data Processing** - Real-time sales analysis
+
+---
+
+**MarketPulse AI** - Transforming retail decision-making with AI! 🎯 🚀
+
 **AI-Powered Decision Support System for India's MRP-Based Retail Ecosystem**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
