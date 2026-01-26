@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\api\routers\recommendations.py
+# hypothesis_version: 6.150.3
+
+[0.0, 1.0, 100, 400, 404, 500, '/generate', '/optimize-discount', '/prioritize', '/recommendations', '/search', '/validate-pipeline', '/{product_id}/impact', 'FAILED', 'Minimum impact score', 'PASSED', 'Search query', 'average_impact_score', 'business_context', 'business_value', 'compliance_result', 'compliance_status', 'compliance_validated', 'filters_applied', 'high', 'impact_assessment', 'impact_score', 'limit_applied', 'low', 'max_recommendations', 'medium', 'min_impact_score', 'mrp_compliance_check', 'original_count', 'pipeline_stages', 'prioritized_count', 'priority', 'priority_filter', 'product_id', 'product_ids', 'ranking_criteria', 'recommendation', 'recommendations', 'results_returned', 'search_metadata', 'search_query', 'seasonal_events', 'target_margin', 'total_found', 'total_products', 'total_searched', 'urgency', 'validation_status']

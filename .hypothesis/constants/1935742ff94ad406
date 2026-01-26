@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\api\main.py
+# hypothesis_version: 6.150.3
+
+[500, 8000, '*', '/api/v1', '/api/v1/data/ingest', '/docs', '/health', '/redoc', '0.0.0.0', '1.0.0', 'HTTPException', 'InternalServerError', 'MarketPulse AI API', '__main__', 'api_version', 'available_endpoints', 'compliance_validator', 'component_status', 'components', 'data_ingestion', 'data_processor', 'exception', 'healthy', 'initialized', 'insight_generator', 'insights', 'recommendations', 'risk_assessor', 'scenario_analyzer', 'shutdown', 'startup', 'status']

@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\core\models.py
+# hypothesis_version: 6.150.3
+
+[0.3, 0.5, 0.6, 0.9, 'Compliance warnings', 'Data sources used', 'Date of assessment', 'Date of sale', 'Insight title', 'Key assumptions made', 'Overall risk level', 'Product category', 'Product identifier', 'Product name', 'Quantity sold', 'Recommended actions', 'Scenario description', 'Scenario limitations', 'Scenario name', 'Validation timestamp', 'after', 'assessment_date', 'compliant', 'created_at', 'critical', 'date_range_end', 'date_range_start', 'expires_at', 'high', 'low', 'medium', 'mrp', 'non_compliant', 'requires_review', 'sale_date', 'selling_price', 'valid_until']

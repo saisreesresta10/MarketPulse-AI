@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\api\backup_manager.py
+# hypothesis_version: 6.150.3
+
+[0.0, 1000, 1800, 3600, 4096, '%Y%m%d_%H%M%S', './backups', '.backup', '.zip', 'Test backup failed', 'active', 'backup_created', 'backup_directory', 'backup_id', 'backup_system_status', 'backup_type', 'completed', 'completed_at', 'compression_ratio', 'corrupted', 'created_at', 'database_path', 'error', 'error_message', 'failed', 'file_size', 'full', 'in_progress', 'inactive', 'incremental', 'integrity_verified', 'latest_backup', 'message', 'not_needed', 'partial', 'pending', 'r', 'rb', 'records_count', 'records_recovered', 'recovery_id', 'recovery_type', 'retention_days', 'scheduled', 'started_at', 'status', 'successful_backups', 'tables_backed_up', 'tables_recovered', 'temp', 'test', 'test_passed', 'total_backups', 'w']

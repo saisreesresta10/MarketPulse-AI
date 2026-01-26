@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\config\settings.py
+# hypothesis_version: 6.150.3
+
+[0.0, 0.7, 1.0, 100, 300, 365, 1000, 1024, 8000, 65535, '.env', '/api/v1', '0.1.0', 'API URL prefix', 'API host address', 'API port number', 'Application name', 'Application version', 'CORS allowed origins', 'Cache TTL in seconds', 'DATABASE_URL', 'Data encryption key', 'ENCRYPTION_KEY', 'Enable audit logging', 'Enable debug mode', 'Encryption algorithm', 'HS256', 'INFO', 'Logging level', 'MARKETPULSE_', 'MarketPulse AI', 'SECRET_KEY', 'algorithm', 'cors_origins', 'database_echo', 'database_url', 'debug', 'development', 'echo', 'enable_audit', 'encryption_key', 'env', 'environment', 'format', 'json', 'level', 'localhost', 'max_overflow', 'pool_size', 'production', 'secret_key', 'staging', 'testing', 'url', 'utf-8']

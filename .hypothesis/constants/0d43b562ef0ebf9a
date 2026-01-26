@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\api\routers\__init__.py
+# hypothesis_version: 6.150.3
+
+['data_router', 'insights_router']

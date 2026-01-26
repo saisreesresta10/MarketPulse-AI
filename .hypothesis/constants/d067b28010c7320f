@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\storage\models.py
+# hypothesis_version: 6.150.3
+
+[100, 255, 'audit_logs', 'cache_entries', 'cache_type', 'category', 'checked_at', 'compliance_results', 'compliance_status', 'confidence_level', 'created_at', 'date_range_end', 'date_range_start', 'demand_patterns', 'expires_at', 'idx_cache_expires_at', 'idx_category_date', 'idx_confidence_level', 'idx_date_range', 'idx_early_warning', 'idx_operation_table', 'idx_product_date', 'idx_product_pattern', 'idx_risk_level_score', 'idx_seasonal_event', 'idx_store_date', 'idx_user_timestamp', 'insights', 'operation_type', 'pattern_type', 'product_id', 'recommendation_id', 'risk_assessments', 'risk_level', 'risk_score', 'risk_type', 'sale_date', 'sales_data', 'scenarios', 'seasonal_event', 'store_location', 'success', 'table_name', 'time_horizon', 'timestamp', 'user_id', 'valid_until']

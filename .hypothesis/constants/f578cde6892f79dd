@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\api\routers\insights.py
+# hypothesis_version: 6.150.3
+
+[0.0, 0.7, 1.0, 404, 500, '/batch-generate', '/generate', '/insights', '/{product_id}', 'InsightGenerator', 'batch_results', 'confidence_threshold', 'data_processor', 'error', 'factor', 'failed_products', 'frequency', 'insight_generator', 'insights', 'insights_generated', 'key_factors', 'patterns_analyzed', 'product_id', 'successful_products', 'summary', 'total_products', 'unique_factors']

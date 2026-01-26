@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\config\security.py
+# hypothesis_version: 6.150.3
+
+[100, 31536000, '*', '1; mode=block', 'Allowed HTTP headers', 'Allowed HTTP methods', 'DELETE', 'DENY', 'Data encryption key', 'GET', 'HS256', 'HS384', 'HS512', 'POST', 'PUT', 'RS256', 'RS384', 'RS512', 'Referrer-Policy', 'Require numbers', 'X-Frame-Options', 'X-XSS-Protection', 'after', 'allow_credentials', 'allow_headers', 'allow_methods', 'auto', 'bcrypt', "default-src 'self'", 'enabled', 'encryption_algorithm', 'min_length', 'nosniff', 'requests', 'require_lowercase', 'require_numbers', 'require_special', 'require_uppercase', 'secret_key', 'window_minutes']

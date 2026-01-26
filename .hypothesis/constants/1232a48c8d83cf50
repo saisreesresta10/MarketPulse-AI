@@ -1,0 +1,4 @@
+# file: D:\Projects\MarketPulse_AI\marketpulse_ai\config\logging_config.py
+# hypothesis_version: 6.150.3
+
+[1024, '%Y-%m-%d %H:%M:%S', 'Audit log file path', 'CRITICAL', 'DEBUG', 'ERROR', 'Enable audit logging', 'INFO', 'Main log file path', 'WARNING', 'action', 'audit', 'audit_json', 'audit_text', 'backupCount', 'class', 'console', 'console_level', 'critical', 'datefmt', 'encoding', 'error', 'event_type', 'ext://sys.stdout', 'file', 'filename', 'format', 'formatter', 'formatters', 'handlers', 'info', 'json', 'level', 'loggers', 'logs/audit.log', 'logs/marketpulse.log', 'logs/security.log', 'marketpulse_ai', 'marketpulse_ai.audit', 'maxBytes', 'propagate', 'record_count', 'resource', 'root', 'security', 'security_json', 'security_text', 'severity', 'source_ip', 'stream', 'success', 'system', 'text', 'timestamp', 'unknown', 'user_agent', 'user_id', 'utf-8', 'version', 'violation_type', 'warning']
