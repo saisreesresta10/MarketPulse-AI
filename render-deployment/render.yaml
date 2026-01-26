@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: marketpulse-ai
+    env: python
+    buildCommand: "pip install -r requirements-railway.txt"
+    startCommand: "python start_railway.py"
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: DATABASE_URL
+        value: sqlite:///marketpulse.db
+      - key: ENVIRONMENT
+        value: production

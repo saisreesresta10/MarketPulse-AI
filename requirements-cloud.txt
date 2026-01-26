@@ -1,8 +1,0 @@
-# Ultra-minimal requirements for Streamlit Cloud
-# Use this if you still get build errors
-
-streamlit
-plotly
-pandas
-numpy
-requests
